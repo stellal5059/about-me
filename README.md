@@ -12,10 +12,20 @@ School:_**High School of Telecommunications Arts and Technology**
 #####Pd6:Algebra2  
 #####Pd7:Physics
 #####Pd8:Spanish5  
-
-#####Bio: I was born and raised in brooklyn, i like doctor who and the color blue  
+---
+#####Bio: I was born and raised in brooklyn, I like doctor who and the color blue  
 ---
 * FAVORITE THINGS:  
- * Movie- LABYRINTH  
- * Book- _Maximum Ride The Angel Experiment_  
- * Band- _The Rolling Stones_
+* Movie- LABYRINTH  
+* Book- _Maximum Ride The Angel Experiment_  
+* Band- _The Rolling Stones_  
+* Animal- _Lion_
+
+ 
+ * Things I want to do before I Graduate:  
+ 1. Make as many people Happy as I can  
+ 2. Get a GPA or at least 3.8 
+ 3. Help my community
+ 4. Get my drivers license 
+ 5. Get into a Good College (NYU hopefully XD)
+ 
