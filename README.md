@@ -23,9 +23,9 @@ School:_**High School of Telecommunications Arts and Technology**
 
  
  * Things I want to do before I Graduate:  
- ##1. Make as many people Happy as I can  
-### 2. Get a GPA or at least 3.8 
- ##3. Help my community
-####4. Get my drivers license 
-##5. Get into a Good College (NYU hopefully XD)
+1. Make as many people Happy as I can    
+2. Get a GPA or at least 3.8  
+3. Help my community  
+4. Get my drivers license  
+5. Get into a Good College (NYU hopefully XD)  
  
