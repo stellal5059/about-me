@@ -14,6 +14,7 @@ School:_**High School of Telecommunications Arts and Technology**
 #####Pd8:Spanish5  
 
 #####Bio: I was born and raised in brooklyn, i like doctor who and the color blue  
+---
 * FAVORITE THINGS:  
  * Movie- LABYRINTH  
  * Book- _Maximum Ride The Angel Experiment_  
