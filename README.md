@@ -13,7 +13,7 @@ School:_**High School of Telecommunications Arts and Technology**
 ####Pd7:Physics
 ####Pd8:Spanish5  
 ---
-#####Bio: I was born and raised in brooklyn, I like doctor who and the color blue  
+#####Bio: I was born and raised in brooklyn, I like doctor who and the color blue. I am a junior in HSTAT and i enjoy reading and listening to music as well as playing video games.  
 ---
  * FAVORITE THINGS:  
 * Movie- LABYRINTH  
