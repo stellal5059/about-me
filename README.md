@@ -16,7 +16,7 @@ School:_**High School of Telecommunications Arts and Technology**
 #####Bio: I was born and raised in brooklyn, I like doctor who and the color blue. I am a junior in HSTAT and i enjoy reading and listening to music as well as playing video games.  
 ---
  * FAVORITE THINGS:  
-* Movie- Labyrinth  
+* Movie- _Labyrinth_  
 * Book- _Maximum Ride The Angel Experiment_  
 * Band- _The Rolling Stones_  
 * Animal- _Lion_ 
